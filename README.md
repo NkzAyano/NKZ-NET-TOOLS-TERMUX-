@@ -22,7 +22,7 @@ Painel de ferramentas de rede para Termux e Python.
     pkg update -y
     pkg install git python iproute2 -y
     git clone https://github.com/NkzAyano/NKZ-NET-TOOLS-TERMUX-.git
-    cd nkz-net-tools
+    cd NKZ-NET-TOOLS-TERMUX-
     python main.py
 
 Substitua SEU-USUARIO pelo seu nome de usuario do GitHub.
